@@ -15,8 +15,8 @@ A powerful local RAG (Retrieval Augmented Generation) application that lets you 
 ### Prerequisites
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/nityaraji/ChatPDF.git
-   cd ChatPDF
+   git clone https://github.com/nityaraji/Chat-with-PDF.git
+   cd Chat-with-PDF
    ```
 
 3. **Set Up Environment**
