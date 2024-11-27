@@ -34,6 +34,13 @@ streamlit run streamlit_app.py
 ```
 Then open your browser to `http://localhost:8501`
 
+![My Image1](images/1.png)
+![My Image2](images/2.png)
+![My Image3](images/3.png)
+![My Image4](images/4.png)
+
+
+
 ## 💡 Usage Tips
 
 1. **Upload PDF**: Use the file uploader in the Streamlit interface or try the sample PDF
